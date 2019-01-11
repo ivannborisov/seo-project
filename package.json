@@ -4,7 +4,7 @@
   "description": "University Seo Project",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "PORT=80 node server.js",
+    "start": "node server.js",
     "dev": "node server.js"
   },
   "repository": {
